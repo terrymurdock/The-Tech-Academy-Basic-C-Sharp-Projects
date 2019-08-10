@@ -5,3 +5,10 @@ C:\Users\terrytown\Documents\Visual Studio 2019\Projects\Exercise_Pg66\obj\Debug
 C:\Users\terrytown\Documents\Visual Studio 2019\Projects\Exercise_Pg66\obj\Debug\Exercise_Pg66.csproj.CoreCompileInputs.cache
 C:\Users\terrytown\Documents\Visual Studio 2019\Projects\Exercise_Pg66\obj\Debug\Exercise_Pg66.exe
 C:\Users\terrytown\Documents\Visual Studio 2019\Projects\Exercise_Pg66\obj\Debug\Exercise_Pg66.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg66\bin\Debug\Exercise_Pg66.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg66\bin\Debug\Exercise_Pg66.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg66\bin\Debug\Exercise_Pg66.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg66\obj\Debug\Exercise_Pg66.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg66\obj\Debug\Exercise_Pg66.csproj.CoreCompileInputs.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg66\obj\Debug\Exercise_Pg66.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg66\obj\Debug\Exercise_Pg66.pdb
