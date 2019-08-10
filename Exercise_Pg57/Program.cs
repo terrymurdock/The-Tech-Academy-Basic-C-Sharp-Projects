@@ -21,6 +21,7 @@ Student Daily Report");
         Console.WriteLine("How many hours did you study today?");
         string hrsStudied = Console.ReadLine();
         int studyHrs = Convert.ToInt32(hrsStudied);
+        Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
         Console.ReadLine();
     }
 }
