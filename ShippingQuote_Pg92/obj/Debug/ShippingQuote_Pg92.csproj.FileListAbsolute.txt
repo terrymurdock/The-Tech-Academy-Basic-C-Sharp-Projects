@@ -1,0 +1,7 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuote_Pg92\bin\Debug\ShippingQuote_Pg92.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuote_Pg92\bin\Debug\ShippingQuote_Pg92.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuote_Pg92\bin\Debug\ShippingQuote_Pg92.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuote_Pg92\obj\Debug\ShippingQuote_Pg92.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuote_Pg92\obj\Debug\ShippingQuote_Pg92.csproj.CoreCompileInputs.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuote_Pg92\obj\Debug\ShippingQuote_Pg92.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuote_Pg92\obj\Debug\ShippingQuote_Pg92.pdb
