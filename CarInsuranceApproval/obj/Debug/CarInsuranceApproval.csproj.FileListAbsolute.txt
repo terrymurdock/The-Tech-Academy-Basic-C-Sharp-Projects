@@ -1,0 +1,7 @@
+C:\Users\terrytown\Documents\Visual Studio 2019\Projects\CarInsuranceApproval\bin\Debug\CarInsuranceApproval.exe.config
+C:\Users\terrytown\Documents\Visual Studio 2019\Projects\CarInsuranceApproval\bin\Debug\CarInsuranceApproval.exe
+C:\Users\terrytown\Documents\Visual Studio 2019\Projects\CarInsuranceApproval\bin\Debug\CarInsuranceApproval.pdb
+C:\Users\terrytown\Documents\Visual Studio 2019\Projects\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\terrytown\Documents\Visual Studio 2019\Projects\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.exe
+C:\Users\terrytown\Documents\Visual Studio 2019\Projects\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.pdb
+C:\Users\terrytown\Documents\Visual Studio 2019\Projects\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.csprojAssemblyReference.cache
