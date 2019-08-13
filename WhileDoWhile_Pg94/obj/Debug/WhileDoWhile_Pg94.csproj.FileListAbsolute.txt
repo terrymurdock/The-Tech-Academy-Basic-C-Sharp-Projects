@@ -1,0 +1,7 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileDoWhile_Pg94\bin\Debug\WhileDoWhile_Pg94.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileDoWhile_Pg94\bin\Debug\WhileDoWhile_Pg94.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileDoWhile_Pg94\bin\Debug\WhileDoWhile_Pg94.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileDoWhile_Pg94\obj\Debug\WhileDoWhile_Pg94.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileDoWhile_Pg94\obj\Debug\WhileDoWhile_Pg94.csproj.CoreCompileInputs.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileDoWhile_Pg94\obj\Debug\WhileDoWhile_Pg94.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WhileDoWhile_Pg94\obj\Debug\WhileDoWhile_Pg94.pdb
