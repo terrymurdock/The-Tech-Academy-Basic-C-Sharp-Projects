@@ -1,0 +1,6 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings_Pg97\bin\Debug\Strings_Pg97.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings_Pg97\bin\Debug\Strings_Pg97.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings_Pg97\bin\Debug\Strings_Pg97.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings_Pg97\obj\Debug\Strings_Pg97.csproj.CoreCompileInputs.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings_Pg97\obj\Debug\Strings_Pg97.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings_Pg97\obj\Debug\Strings_Pg97.pdb
