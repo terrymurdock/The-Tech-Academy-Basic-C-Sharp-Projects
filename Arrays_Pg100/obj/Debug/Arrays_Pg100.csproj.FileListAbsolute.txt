@@ -1,0 +1,7 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays_Pg100\bin\Debug\Arrays_Pg100.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays_Pg100\bin\Debug\Arrays_Pg100.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays_Pg100\bin\Debug\Arrays_Pg100.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays_Pg100\obj\Debug\Arrays_Pg100.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays_Pg100\obj\Debug\Arrays_Pg100.csproj.CoreCompileInputs.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays_Pg100\obj\Debug\Arrays_Pg100.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Arrays_Pg100\obj\Debug\Arrays_Pg100.pdb
