@@ -20,10 +20,10 @@ Please enter the package weight:");
                 Console.WriteLine("Please enter the package width:");
                 int pkgWidth = Convert.ToInt32(Console.ReadLine());
 
-                Console.WriteLine("Please enter the package width:");
+                Console.WriteLine("Please enter the package height:");
                 int pkgHeight = Convert.ToInt32(Console.ReadLine());
 
-                Console.WriteLine("Please enter the package width:");
+                Console.WriteLine("Please enter the package length:");
                 int pkgLength = Convert.ToInt32(Console.ReadLine());
 
                 // Sum pkg w/h/l
