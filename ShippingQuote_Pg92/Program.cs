@@ -27,12 +27,12 @@ Please enter the package weight:");
                 int pkgLength = Convert.ToInt32(Console.ReadLine());
 
                 // Sum pkg w/h/l
-                int pkgDimenstions = (pkgWidth + pkgHeight + pkgLength);
+                int pkgDimensions = (pkgWidth + pkgHeight + pkgLength);
 
                 // Est shipping cost equals pkg dimensions times weight, divided by 100
-                decimal estShipping = (pkgDimenstions * pkgWeight) / 100m;
+                decimal estShipping = (pkgDimensions * pkgWeight) / 100m;
 
-                if (pkgDimenstions > 50)
+                if (pkgDimensions > 50)
                 {
                     Console.WriteLine("Package too big to be shipped via Package Express.");
                     Console.ReadLine();
