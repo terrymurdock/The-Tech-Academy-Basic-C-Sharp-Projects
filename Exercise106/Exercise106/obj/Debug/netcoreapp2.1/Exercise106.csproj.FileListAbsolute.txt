@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise106\Exercise106\bin\Debug\netcoreapp2.1\Exercise106.deps.json
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise106\Exercise106\bin\Debug\netcoreapp2.1\Exercise106.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise106\Exercise106\bin\Debug\netcoreapp2.1\Exercise106.runtimeconfig.dev.json
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise106\Exercise106\bin\Debug\netcoreapp2.1\Exercise106.dll
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise106\Exercise106\bin\Debug\netcoreapp2.1\Exercise106.pdb
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise106\Exercise106\obj\Debug\netcoreapp2.1\Exercise106.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise106\Exercise106\obj\Debug\netcoreapp2.1\Exercise106.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise106\Exercise106\obj\Debug\netcoreapp2.1\Exercise106.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise106\Exercise106\obj\Debug\netcoreapp2.1\Exercise106.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise106\Exercise106\obj\Debug\netcoreapp2.1\Exercise106.dll
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise106\Exercise106\obj\Debug\netcoreapp2.1\Exercise106.pdb
