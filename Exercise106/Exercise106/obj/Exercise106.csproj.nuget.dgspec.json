@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Exercise106\\Exercise106\\Exercise106.csproj": {}
+    "\\\\mac\\Home\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Exercise106\\Exercise106\\Exercise106.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Exercise106\\Exercise106\\Exercise106.csproj": {
+    "\\\\mac\\Home\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Exercise106\\Exercise106\\Exercise106.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Exercise106\\Exercise106\\Exercise106.csproj",
+        "projectUniqueName": "\\\\mac\\Home\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Exercise106\\Exercise106\\Exercise106.csproj",
         "projectName": "Exercise106",
-        "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Exercise106\\Exercise106\\Exercise106.csproj",
+        "projectPath": "\\\\mac\\Home\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Exercise106\\Exercise106\\Exercise106.csproj",
         "packagesPath": "C:\\Users\\terrytown206\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Exercise106\\Exercise106\\obj\\",
+        "outputPath": "\\\\mac\\Home\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Exercise106\\Exercise106\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

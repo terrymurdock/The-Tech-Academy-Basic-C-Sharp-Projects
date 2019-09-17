@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.deps.json
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.runtimeconfig.dev.json
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.dll
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\bin\Debug\netcoreapp2.1\TwentyOne.pdb
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.dll
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.pdb
