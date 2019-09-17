@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg113\obj\Debug\netcoreapp2.1\Exercise_Pg113.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg113\obj\Debug\netcoreapp2.1\Exercise_Pg113.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg113\obj\Debug\netcoreapp2.1\Exercise_Pg113.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg113\obj\Debug\netcoreapp2.1\Exercise_Pg113.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg113\bin\Debug\netcoreapp2.1\Exercise_Pg113.deps.json
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg113\bin\Debug\netcoreapp2.1\Exercise_Pg113.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg113\bin\Debug\netcoreapp2.1\Exercise_Pg113.runtimeconfig.dev.json
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg113\bin\Debug\netcoreapp2.1\Exercise_Pg113.dll
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg113\bin\Debug\netcoreapp2.1\Exercise_Pg113.pdb
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg113\obj\Debug\netcoreapp2.1\Exercise_Pg113.dll
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg113\obj\Debug\netcoreapp2.1\Exercise_Pg113.pdb
