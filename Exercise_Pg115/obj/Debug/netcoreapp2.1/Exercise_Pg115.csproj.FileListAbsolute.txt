@@ -1,0 +1,11 @@
+C:\Users\terrytown206\source\repos\Exercise_Pg115\obj\Debug\netcoreapp2.1\Exercise_Pg115.csprojAssemblyReference.cache
+C:\Users\terrytown206\source\repos\Exercise_Pg115\obj\Debug\netcoreapp2.1\Exercise_Pg115.csproj.CoreCompileInputs.cache
+C:\Users\terrytown206\source\repos\Exercise_Pg115\obj\Debug\netcoreapp2.1\Exercise_Pg115.AssemblyInfoInputs.cache
+C:\Users\terrytown206\source\repos\Exercise_Pg115\obj\Debug\netcoreapp2.1\Exercise_Pg115.AssemblyInfo.cs
+C:\Users\terrytown206\source\repos\Exercise_Pg115\bin\Debug\netcoreapp2.1\Exercise_Pg115.deps.json
+C:\Users\terrytown206\source\repos\Exercise_Pg115\bin\Debug\netcoreapp2.1\Exercise_Pg115.runtimeconfig.json
+C:\Users\terrytown206\source\repos\Exercise_Pg115\bin\Debug\netcoreapp2.1\Exercise_Pg115.runtimeconfig.dev.json
+C:\Users\terrytown206\source\repos\Exercise_Pg115\bin\Debug\netcoreapp2.1\Exercise_Pg115.dll
+C:\Users\terrytown206\source\repos\Exercise_Pg115\bin\Debug\netcoreapp2.1\Exercise_Pg115.pdb
+C:\Users\terrytown206\source\repos\Exercise_Pg115\obj\Debug\netcoreapp2.1\Exercise_Pg115.dll
+C:\Users\terrytown206\source\repos\Exercise_Pg115\obj\Debug\netcoreapp2.1\Exercise_Pg115.pdb
