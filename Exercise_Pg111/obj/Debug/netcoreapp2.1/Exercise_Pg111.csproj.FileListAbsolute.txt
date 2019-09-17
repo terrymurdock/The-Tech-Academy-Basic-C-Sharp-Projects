@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg111\bin\Debug\netcoreapp2.1\Exercise_Pg111.deps.json
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg111\bin\Debug\netcoreapp2.1\Exercise_Pg111.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg111\bin\Debug\netcoreapp2.1\Exercise_Pg111.runtimeconfig.dev.json
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg111\bin\Debug\netcoreapp2.1\Exercise_Pg111.dll
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg111\bin\Debug\netcoreapp2.1\Exercise_Pg111.pdb
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg111\obj\Debug\netcoreapp2.1\Exercise_Pg111.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg111\obj\Debug\netcoreapp2.1\Exercise_Pg111.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg111\obj\Debug\netcoreapp2.1\Exercise_Pg111.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg111\obj\Debug\netcoreapp2.1\Exercise_Pg111.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg111\obj\Debug\netcoreapp2.1\Exercise_Pg111.dll
+\\Mac\Home\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg111\obj\Debug\netcoreapp2.1\Exercise_Pg111.pdb
