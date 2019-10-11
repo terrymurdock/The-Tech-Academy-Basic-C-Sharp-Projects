@@ -1,0 +1,11 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg124\obj\Debug\netcoreapp3.0\Exercise_Pg124.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg124\obj\Debug\netcoreapp3.0\Exercise_Pg124.AssemblyInfoInputs.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg124\obj\Debug\netcoreapp3.0\Exercise_Pg124.AssemblyInfo.cs
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg124\bin\Debug\netcoreapp3.0\Exercise_Pg124.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg124\bin\Debug\netcoreapp3.0\Exercise_Pg124.deps.json
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg124\bin\Debug\netcoreapp3.0\Exercise_Pg124.runtimeconfig.json
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg124\bin\Debug\netcoreapp3.0\Exercise_Pg124.runtimeconfig.dev.json
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg124\bin\Debug\netcoreapp3.0\Exercise_Pg124.dll
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg124\bin\Debug\netcoreapp3.0\Exercise_Pg124.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg124\obj\Debug\netcoreapp3.0\Exercise_Pg124.dll
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg124\obj\Debug\netcoreapp3.0\Exercise_Pg124.pdb
