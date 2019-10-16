@@ -1,0 +1,6 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg126\bin\Debug\Exercise_pg126.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg126\bin\Debug\Exercise_pg126.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg126\bin\Debug\Exercise_pg126.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg126\obj\Debug\Exercise_pg126.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg126\obj\Debug\Exercise_pg126.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg126\obj\Debug\Exercise_pg126.pdb

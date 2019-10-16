@@ -6,9 +6,10 @@ namespace Exercise_Pg124
 {
     public class Employee : Person
     {
-        public Employee()
+        public override void SayName(string firstName, string lastName)
         {
-            Console.WriteLine("Employee");
+            Console.WriteLine("Name: " + firstName + " " + lastName);
+            Console.ReadLine();      
         }
     }
-}
+    }
