@@ -8,6 +8,15 @@ namespace Exercise_pg131_Generics
 {
     public class Employee<T>
     {
-        public List<T> things { get; set; }
+        public List<T> Things { get; set; }
+
+        public void ProcessAllThings()
+        {
+            foreach(var thing in Things)
+            {
+                Console.WriteLine(thing.ToString());
+                Console.ReadLine();
+            }
+        }
     }
 }
