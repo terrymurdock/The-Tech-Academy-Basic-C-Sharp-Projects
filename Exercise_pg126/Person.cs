@@ -11,10 +11,6 @@ namespace Exercise_pg126
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        public void SayName(string firstName, string lastName)
-        {
-            Console.WriteLine("Name: " + firstName + " " + lastName);
-            Console.ReadLine();
-        }
+        public abstract void SayName(string firstName, string lastName);
     }
 }
