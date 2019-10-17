@@ -1,0 +1,6 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg131_Generics\bin\Debug\Exercise_pg131_Generics.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg131_Generics\bin\Debug\Exercise_pg131_Generics.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg131_Generics\bin\Debug\Exercise_pg131_Generics.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg131_Generics\obj\Debug\Exercise_pg131_Generics.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg131_Generics\obj\Debug\Exercise_pg131_Generics.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg131_Generics\obj\Debug\Exercise_pg131_Generics.pdb
