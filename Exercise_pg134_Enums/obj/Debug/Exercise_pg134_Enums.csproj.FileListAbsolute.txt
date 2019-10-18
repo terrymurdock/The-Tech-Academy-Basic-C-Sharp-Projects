@@ -1,0 +1,6 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg134_Enums\bin\Debug\Exercise_pg134_Enums.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg134_Enums\bin\Debug\Exercise_pg134_Enums.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg134_Enums\bin\Debug\Exercise_pg134_Enums.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg134_Enums\obj\Debug\Exercise_pg134_Enums.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg134_Enums\obj\Debug\Exercise_pg134_Enums.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_pg134_Enums\obj\Debug\Exercise_pg134_Enums.pdb
