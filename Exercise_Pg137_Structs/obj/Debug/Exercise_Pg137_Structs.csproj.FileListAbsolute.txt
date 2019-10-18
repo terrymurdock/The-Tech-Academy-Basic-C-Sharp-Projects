@@ -1,0 +1,6 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg137_Structs\bin\Debug\Exercise_Pg137_Structs.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg137_Structs\bin\Debug\Exercise_Pg137_Structs.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg137_Structs\bin\Debug\Exercise_Pg137_Structs.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg137_Structs\obj\Debug\Exercise_Pg137_Structs.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg137_Structs\obj\Debug\Exercise_Pg137_Structs.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg137_Structs\obj\Debug\Exercise_Pg137_Structs.pdb
