@@ -1,0 +1,6 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg140_Lambda\bin\Debug\Exercise_Pg140_Lambda.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg140_Lambda\bin\Debug\Exercise_Pg140_Lambda.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg140_Lambda\bin\Debug\Exercise_Pg140_Lambda.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg140_Lambda\obj\Debug\Exercise_Pg140_Lambda.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg140_Lambda\obj\Debug\Exercise_Pg140_Lambda.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg140_Lambda\obj\Debug\Exercise_Pg140_Lambda.pdb
