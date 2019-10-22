@@ -106,7 +106,6 @@ namespace TwentyOne
                             }
                         }
                     }
-
                 }
             }
             Dealer.isBusted = TwentyOneRules.IsBusted(Dealer.Hand);

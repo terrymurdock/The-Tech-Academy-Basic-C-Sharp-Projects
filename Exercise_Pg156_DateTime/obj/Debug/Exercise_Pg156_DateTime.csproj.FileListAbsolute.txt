@@ -1,0 +1,6 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg156_DateTime\bin\Debug\Exercise_Pg156_DateTime.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg156_DateTime\bin\Debug\Exercise_Pg156_DateTime.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg156_DateTime\bin\Debug\Exercise_Pg156_DateTime.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg156_DateTime\obj\Debug\Exercise_Pg156_DateTime.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg156_DateTime\obj\Debug\Exercise_Pg156_DateTime.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg156_DateTime\obj\Debug\Exercise_Pg156_DateTime.pdb
