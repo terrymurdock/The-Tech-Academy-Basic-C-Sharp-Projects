@@ -1,0 +1,6 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg154_FileIO\bin\Debug\Exercise_Pg154_FileIO.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg154_FileIO\bin\Debug\Exercise_Pg154_FileIO.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg154_FileIO\bin\Debug\Exercise_Pg154_FileIO.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg154_FileIO\obj\Debug\Exercise_Pg154_FileIO.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg154_FileIO\obj\Debug\Exercise_Pg154_FileIO.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg154_FileIO\obj\Debug\Exercise_Pg154_FileIO.pdb
