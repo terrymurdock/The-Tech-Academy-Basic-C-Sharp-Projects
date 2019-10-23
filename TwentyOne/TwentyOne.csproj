@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Visual Studio 2019\Projects\Casino\Casino.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,6 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg162_ConstVarChain\bin\Debug\Exercise_Pg162_ConstVarChain.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg162_ConstVarChain\bin\Debug\Exercise_Pg162_ConstVarChain.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg162_ConstVarChain\bin\Debug\Exercise_Pg162_ConstVarChain.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg162_ConstVarChain\obj\Debug\Exercise_Pg162_ConstVarChain.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg162_ConstVarChain\obj\Debug\Exercise_Pg162_ConstVarChain.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg162_ConstVarChain\obj\Debug\Exercise_Pg162_ConstVarChain.pdb

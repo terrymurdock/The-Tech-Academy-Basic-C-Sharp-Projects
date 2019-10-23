@@ -19,3 +19,6 @@ C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Twen
 C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.AssemblyInfo.cs
 C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.dll
 C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\bin\Debug\netcoreapp2.1\Casino.dll
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\bin\Debug\netcoreapp2.1\Casino.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\netcoreapp2.1\TwentyOne.csproj.CopyComplete
