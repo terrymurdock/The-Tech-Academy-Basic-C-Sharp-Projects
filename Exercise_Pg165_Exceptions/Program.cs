@@ -26,8 +26,16 @@ namespace Exercise_Pg165_Exceptions
                 else
                 {
                     int yearBorn = DateTime.Now.Year - userAge;
-                    Console.WriteLine("The year you were born is {0}.", yearBorn);
+
+                    while (DateTime.Now.Month >= (12 - DateTime.Now.Month))
+                    {
+                        Console.WriteLine("The year you were born is {0}.", yearBorn);
+                        Console.ReadLine();
+                        return;
+                    }
+                    Console.WriteLine("The year you were born is {0}.", yearBorn -1);
                     Console.ReadLine();
+                    return;
                 }
             }
             catch(ArgumentException)
