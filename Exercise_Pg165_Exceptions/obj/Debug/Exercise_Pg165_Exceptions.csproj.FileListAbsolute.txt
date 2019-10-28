@@ -1,0 +1,6 @@
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg165_Exceptions\bin\Debug\Exercise_Pg165_Exceptions.exe.config
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg165_Exceptions\bin\Debug\Exercise_Pg165_Exceptions.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg165_Exceptions\bin\Debug\Exercise_Pg165_Exceptions.pdb
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg165_Exceptions\obj\Debug\Exercise_Pg165_Exceptions.csprojAssemblyReference.cache
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg165_Exceptions\obj\Debug\Exercise_Pg165_Exceptions.exe
+C:\Users\terrytown\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Exercise_Pg165_Exceptions\obj\Debug\Exercise_Pg165_Exceptions.pdb
