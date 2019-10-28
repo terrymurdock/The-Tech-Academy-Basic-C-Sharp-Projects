@@ -10,11 +10,11 @@ namespace Exercise_Pg165_Exceptions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter your age.");
-            int userAge = Convert.ToInt32(Console.ReadLine());
-
             try
             {
+                Console.WriteLine("Please enter your age.");
+                int userAge = Convert.ToInt32(Console.ReadLine());
+
                 if (userAge == 0)
                 {
                     throw new ArgumentException();
